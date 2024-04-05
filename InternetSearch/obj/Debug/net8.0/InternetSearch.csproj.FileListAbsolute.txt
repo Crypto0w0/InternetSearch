@@ -1,0 +1,14 @@
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/bin/Debug/net8.0/InternetSearch
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/bin/Debug/net8.0/InternetSearch.deps.json
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/bin/Debug/net8.0/InternetSearch.runtimeconfig.json
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/bin/Debug/net8.0/InternetSearch.dll
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/bin/Debug/net8.0/InternetSearch.pdb
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.AssemblyInfoInputs.cache
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.AssemblyInfo.cs
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.csproj.CoreCompileInputs.cache
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.dll
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/refint/InternetSearch.dll
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.pdb
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/InternetSearch.genruntimeconfig.cache
+/Users/alexuntilov/RiderProjects/InternetSearch/InternetSearch/obj/Debug/net8.0/ref/InternetSearch.dll
